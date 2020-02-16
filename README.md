@@ -1,6 +1,6 @@
 ## OpenXMB
 
-OpenXMB is an open source implementation of Sony's XMB used in the PS3, PSP, PSX and some Bravia televisions.
+OpenXMB is an open source implementation of Sony's XMB used in the PS3, PSP, PSX consoles and some Bravia televisions.
 
 **What am I able to do with it?**
 
